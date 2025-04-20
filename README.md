@@ -2,9 +2,6 @@
 
 **CybellaAI** is an AI-powered therapy assistant designed to provide emotional support through natural conversation. It uses real-time **facial emotion recognition** and **voice interaction** to respond intelligently to the user's emotional state.
 
-<p align="center">
-  <img src="public/image/logo.png" alt="CybellaAI Logo" width="150"/>
-</p>
 
 ---
 
